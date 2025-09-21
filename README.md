@@ -7,7 +7,8 @@ An interactive **Power BI dashboard** built using the **Sample Superstore datase
 
 
 ---
-![Uploading image.png…]()
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/572afdc7-7d4c-4543-8daa-fdc0bebd4b79" />
+
 
 
 
