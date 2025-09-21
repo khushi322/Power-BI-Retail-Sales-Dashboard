@@ -29,7 +29,7 @@ Regional Performance: The West and East regions are the top markets by sales vol
 Seasonal Trends: Sales consistently peak in Q4, aligning with holiday seasons.
 
 🚀 How to Use
-Download the .pbix and .csv files.
+Download the .pbix and .csv files from this repository.
 
 Open Executive-Sales-Dashboard.pbix in Power BI Desktop.
 
